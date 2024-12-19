@@ -1,2 +1,2 @@
 # Pulse-Net
- IOT Based BPM Equation System
+ IOT Based BPM Acquisition System
